@@ -10,7 +10,7 @@
 ---
 # Projetos:
 * :heavy_check_mark: Projeto 1 - Simple HTTP:
-  * Projeto que envolve um site simples sendo hospedado em um Container ECS com CI/CD Integrado e Fargate
+  * Projeto que envolve um site simples sendo hospedado em um Container ECS com CI/CD Integrado e Fargate + Outros
  
 * :recycle: Projeto 2 - Wordpress on ECS Cluster:
   * Projeto que utilizia a imagem Wordpress e hospeda no ECS Cluster Fargate
