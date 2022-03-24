@@ -21,6 +21,17 @@
 * :recycle: Projeto 4 - Microserviço ECS:
   * Utilizando o AWS Xray, Discovery e AppMesh
 
+* ❕ Projeto 5 - Blue/Green Deployment com ECS:
+  * Iniciando um Deploy Blue/Green que vai atualizando aos poucos.
+
+* ♻️ Projeto 6 - Resiliência no ECS:
+  * Projeto Visando o uso do AWS Well-Architected Framework - boas práticas.
+  * Monitoramento
+  * Segurança
+  * Alta Disponibilidade / Fault Tolerance
+  * Resiliência
+  * Automação
+
 <h6 align="center">
   Os projetos que contém ✔️ estão Concluidos; <br>
   Os projetos que contém ♻️ estão em To Do; <br>
