@@ -1,0 +1,29 @@
+{
+    "taskDefinition": "task-definition-name:revision",
+    "cluster": "Cluster-name",
+    "loadBalancers": [
+        {
+            "targetGroupArn": "target-group-arn",
+            "containerName": "container-name",
+            "containerPort": 80
+        }
+    ],
+    "desiredCount": 1,
+    "launchType": "FARGATE",
+    "schedulingStrategy": "REPLICA",
+    "deploymentController": {
+        "type": "CODE_DEPLOY"
+    },
+    "networkConfiguration": {
+        "awsvpcConfiguration": {
+            "subnets": [
+                "subnet-1-id",
+                "subnet-2-id"
+            ],
+            "securityGroups": [
+                "sg-id"
+            ],
+            "assignPublicIp": "ENABLED"
+        }
+    }
+}
