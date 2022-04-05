@@ -24,3 +24,6 @@
     <img src="https://www.fintail.me/icons/AWS-CodeBuild.png" width="100">
     <img src="https://www.fintail.me/icons/AWS-CodePipeline.png" width="100">
 </div>
+
+-----------
+<p align=center>Projeto baseado em um projeto real de um curso da Udemy sobre ECS</p>
