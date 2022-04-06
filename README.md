@@ -15,13 +15,13 @@
 * :recycle: Projeto 2 - Wordpress on ECS Cluster:
   * Projeto que utilizia a imagem Wordpress e hospeda no ECS Cluster Fargate
 
-* :recycle: Projeto 3 - Traefik Proxy:
+* ❕ Projeto 3 - Traefik Proxy:
   * Utilizando a ferramente Traefik como Proxy reverso para os services no ECS Cluster
 
 * :recycle: Projeto 4 - Microserviço ECS:
   * Utilizando o AWS Xray, Discovery e AppMesh
 
-* ❕ Projeto 5 - Blue/Green Deployment com ECS:
+* :heavy_check_mark: Projeto 5 - Blue/Green Deployment com ECS:
   * Iniciando um Deploy Blue/Green que vai atualizando aos poucos.
 
 * ♻️ Projeto 6 - Resiliência no ECS:
